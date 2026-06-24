@@ -1,4 +1,4 @@
-### Hi, I'm Pablo 👋
+### Hi, I'm Pablo
 **Data Analyst & Economist** | Python · SQL · Power BI
 Consulting background (PwC, Deloitte). I turn data into decisions.
 
